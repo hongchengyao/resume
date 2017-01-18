@@ -1,2 +1,2 @@
 # resume
-website for hongcheng's resume http://hongchengyao.github.io/resume
+This is hongcheng's website, thanks for stopping by
